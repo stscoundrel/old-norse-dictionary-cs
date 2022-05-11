@@ -5,7 +5,7 @@ on:
     types: [created]
 
 env:
-  PROJECT_NAME: ProjectName
+  PROJECT_NAME: OldNorseDictionary
 
 jobs:
   deploy:
