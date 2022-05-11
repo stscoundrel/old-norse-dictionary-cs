@@ -1,4 +1,4 @@
-﻿namespace ProjectName;
+﻿namespace OldNorseDictionary;
 
 public class Class1
 {

@@ -1,5 +1,5 @@
 using Xunit;
-using ProjectName;
+using OldNorseDictionary;
 
 namespace tests;
 

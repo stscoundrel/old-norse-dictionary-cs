@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\src\ProjectName.csproj" />
+    <ProjectReference Include="..\src\OldNorseDictionary.csproj" />
   </ItemGroup>
 
 </Project>
