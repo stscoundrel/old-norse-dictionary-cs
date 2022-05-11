@@ -8,12 +8,16 @@
     <PackageVersion>0.1.0</PackageVersion>
     <Description>
       Old Norse Dictionary for C# / .NET.
-      From The Cleasby & Vigfusson Old Norse to English Dictionary.
+      From The Cleasby and Vigfusson Old Norse to English Dictionary.
     </Description>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryUrl>https://github.com/stscoundrel/old-norse-dictionary-cs</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
   </PropertyGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources/dictionary.json" />
+  </ItemGroup>
 
   <ItemGroup>
     <None Include="..\README.md" Pack="true" PackagePath="\"/>
