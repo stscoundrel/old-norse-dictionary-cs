@@ -7,10 +7,11 @@
     <Authors>stscoundrel / Sampo Silvennoinen</Authors>
     <PackageVersion>0.1.0</PackageVersion>
     <Description>
-      TODO: Package description
+      Old Norse Dictionary for C# / .NET.
+      From The Cleasby & Vigfusson Old Norse to English Dictionary.
     </Description>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <RepositoryUrl>https://github.com/stscoundrel/dotnet-template</RepositoryUrl>
+    <RepositoryUrl>https://github.com/stscoundrel/old-norse-dictionary-cs</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
