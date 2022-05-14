@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <Authors>stscoundrel / Sampo Silvennoinen</Authors>
-    <PackageVersion>0.1.0</PackageVersion>
+    <PackageVersion>0.9.0</PackageVersion>
     <Description>
       Old Norse Dictionary for C# / .NET.
       From The Cleasby and Vigfusson Old Norse to English Dictionary.
